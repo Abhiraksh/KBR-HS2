@@ -1,1 +1,2 @@
-# KBR-HS2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
